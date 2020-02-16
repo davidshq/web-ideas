@@ -1,4 +1,4 @@
-# Introduction
+# The Need for a More Read/Write Web
 There are several problems the web faces which could be mitigated through improving the read/write layer of the web.
 
 ## Problem 1: Content Quality
