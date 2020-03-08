@@ -5,6 +5,8 @@ For this reason I would suggest we create a standardized subset of concepts whic
 
 A starting place for this venture might be using some of the "State of x" surveys floating around the web to choose between important and unimportant topics.
 
+- "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler, Refactoring, 1999.
+
 ## A Few Examples of Simplified Concepts.
 Here I'll make some crazy suggestions on ways in which we could simplify what we teach. I know what I'm saying is opinioniated and controversial. I'm very open to changing what concepts should be taught as long as it is a subset...and I suppose someone might convince me this is a bad idea altogether.
 
