@@ -10,7 +10,8 @@ But this still leaves us with a significant amount of unmaintained software. Sof
 It could be organized as a non-profit and have an oversight board that helped determine the projects which should receive attention and with what urgency the attention is required. The organization might also have some funds it could utilize to hire contractors to perform work which would be overseen and reviewed by the full-time staff of the organization.
 
 # Examples
-- [Express Generator](wm-node-express-generator.md)
+- [Express Generator](/web-maintenance/wm-node-express-generator.md)
+- [Gatsby CLI](/web-maintenance/wm-gatsby-cli.md)
 
 # Thoughts?
 I know this is pretty bare bones. What questions or comments do you have that I can use to flesh out this proposal?
