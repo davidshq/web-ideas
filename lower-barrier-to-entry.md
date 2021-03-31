@@ -30,6 +30,9 @@ I'm not married to these particular methods of simplifying development but I do 
 
 Signing off my heretical thoughts, send me back your snide remarks or kudos!
 
+# Additional Reading
+- Frank Chimero. [Everything Easy is Hard Again](https://frankchimero.com/writing/everything-easy-is-hard-again/). 2017-2018.
+
 # Footnotes
 [1]Interestingly, for those working with a Microsoft stack that where quite lean without the free tooling. I'm specifically thinking of the initial launch of Visual Basic when there was no free IDE / integrated build too available. It took me quite a while to save up my pennies and buy a student license for VB back then.
 [2]At one time I thought the path forward might be a new development stack, or at least a new domain specific langauge (DSL) within an existing development stack. But the proliferation of languages and tools has made me doubt the wisdom of this approach.
